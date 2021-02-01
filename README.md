@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Meet Sena, the C, python, matlab, react.js coder.
